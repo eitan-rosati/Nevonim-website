@@ -1,0 +1,47 @@
+#KeywordSearchFeature{
+    align-self: center;
+    text-align: center;
+}
+#openSearch{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.mr-auto{
+    color: navy;
+    
+}
+#send_keyword_search{
+    margin-right: 5px;
+    color: navy;
+    background-color: aqua;
+    height: 70px;
+    width: 90px;
+    font-size: large;
+    font-weight: bold;
+    border:blue;
+    border-width: 2px;
+    border-style: solid;
+}
+#keyword_input{
+    height: 70px;
+    width: 350px;
+    border: blue;
+    border-width: 2px;
+    border-style: ridge;
+    color: navy;
+    text-align: right;
+    font-size: medium;
+}
+.form-control mr-sm-2{
+    color: navy;
+    scrollbar-highlight-color: navy;
+}
+#description_keyword_search{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: medium;
+    color: rgb(9, 9, 172);
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

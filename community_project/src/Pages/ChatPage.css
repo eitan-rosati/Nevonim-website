@@ -1,0 +1,32 @@
+.ChatPage {
+    margin: auto;
+    width: 70%;
+    height:400px;
+    border: 3px solid black;
+    padding: 10px;
+  }
+  
+  #contactlist {
+    display: inline-block; 
+    bottom: 295px;
+    border: 1px solid black;
+    height:405px;
+    position: relative; 
+    width:8.4%;
+    bottom: 312px;
+    background-color: rgb(25, 204, 19);
+  }
+  
+  #chat{
+    display: inline-block;
+    border: 1px solid green;
+    width: 90%;
+    height:405px;
+  }
+  
+  #chatarea{
+    border: 1px solid slateblue;
+    height: 280px;
+    background-color:lightgoldenrodyellow;
+  } 
+  

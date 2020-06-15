@@ -1,0 +1,9 @@
+.data_base_queries{
+    background-image: url("./picture/DB.pg.jpg");
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    border: 3px solid #777777;
+    padding: 10px;
+    margin-top: 1%;
+  }

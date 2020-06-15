@@ -1,0 +1,53 @@
+#myProfile_Textbox_div, #myPersonalServics_Textbox_div, #myPersonalHistory_Textbox_div, #myChat_Textbox_div{
+    /* margin:center; */
+    text-align: right;
+    border: 3px solid black;
+     width: 30%; 
+    height: 200px;
+    position: relative;  
+    width:700px; 
+    margin: 0 auto;
+}
+
+#myProfile_Button_div,  #myChat_Button_div{
+    text-align: center;
+    position: relative;  
+    width:700px; 
+    margin: 0 auto;
+    margin-top: -50px;
+    /* width:200px;416px */
+    right:-300px;
+    margin-top: 10px;
+    position: relative;
+}
+
+#myPersonalServics_Button_div, #myPersonalHistory_Button_div{
+
+    text-align: center;
+    position: relative;  
+    width:700px; 
+    margin: 0 auto;
+
+
+ margin-top: -50px;
+ /* width:200px;416px */
+ right:-262px;
+ margin-top: 10px;
+ position: relative;
+
+}
+.h1{
+    text-align: center;
+}
+#myProfile_div, #myChat_div{
+    text-align: center;
+    position: relative;   
+}
+#main_btn{
+    background-color: purple;
+    font-weight: bold;
+}
+#chat_btn{
+    background-color: rgb(5, 5, 177);
+    font-weight: bold;
+}

@@ -1,0 +1,7 @@
+body{
+    font-family:Arial;
+  }
+  #one  , #two{
+    height: 100px;
+    width: 150px;
+  }

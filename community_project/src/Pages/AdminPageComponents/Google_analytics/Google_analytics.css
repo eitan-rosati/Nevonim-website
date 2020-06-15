@@ -1,0 +1,10 @@
+.google_analytics{
+    background-image: url("./picture/google_pic.jpg");
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    border: 3px solid #777777;
+    padding: 10px;
+    margin-top: 1%;
+  }
+  
